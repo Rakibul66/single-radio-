@@ -1,0 +1,911 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:5:5-38:19
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+MERGED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-46:19
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-46:19
+MERGED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /Users/roxy/.gradle/caches/transforms-3/ce992da3b2c1f46df7af9aa3ac88ad87/transformed/jetified-firebase-analytics-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /Users/roxy/.gradle/caches/transforms-3/ce992da3b2c1f46df7af9aa3ac88ad87/transformed/jetified-firebase-analytics-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /Users/roxy/.gradle/caches/transforms-3/94391c6dd72577772af9bb9729861b61/transformed/jetified-play-services-measurement-sdk-22.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /Users/roxy/.gradle/caches/transforms-3/94391c6dd72577772af9bb9729861b61/transformed/jetified-play-services-measurement-sdk-22.1.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/roxy/.gradle/caches/transforms-3/5cff6240a5b3dc1e52c50f500a3cb7c3/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/roxy/.gradle/caches/transforms-3/5cff6240a5b3dc1e52c50f500a3cb7c3/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/a8e6c0757966967294e3baf6db6710c7/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/a8e6c0757966967294e3baf6db6710c7/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/roxy/.gradle/caches/transforms-3/e3378c360a9a076022c05c97fa68978d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/roxy/.gradle/caches/transforms-3/e3378c360a9a076022c05c97fa68978d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/roxy/.gradle/caches/transforms-3/a5bd302c3655c0245502ab978b0f97ca/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/roxy/.gradle/caches/transforms-3/a5bd302c3655c0245502ab978b0f97ca/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/roxy/.gradle/caches/transforms-3/81c6c8018127d137bec390d769ebac22/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/roxy/.gradle/caches/transforms-3/81c6c8018127d137bec390d769ebac22/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /Users/roxy/.gradle/caches/transforms-3/f56239a1990f5db7c55831f0a968e450/transformed/jetified-play-services-measurement-base-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /Users/roxy/.gradle/caches/transforms-3/f56239a1990f5db7c55831f0a968e450/transformed/jetified-play-services-measurement-base-22.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/10395d494ebb6390cde4b7c2b7ed2c93/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/10395d494ebb6390cde4b7c2b7ed2c93/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/roxy/.gradle/caches/transforms-3/d182d48766d3181fe43ad708b21d1350/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/roxy/.gradle/caches/transforms-3/d182d48766d3181fe43ad708b21d1350/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/roxy/.gradle/caches/transforms-3/16b63bb7cfb9abdecc414d8b23bf2a96/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/roxy/.gradle/caches/transforms-3/16b63bb7cfb9abdecc414d8b23bf2a96/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/roxy/.gradle/caches/transforms-3/4fea624090f0560a7e8cc36de5c7295b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/roxy/.gradle/caches/transforms-3/4fea624090f0560a7e8cc36de5c7295b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:1:1-50:12
+MERGED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:1:1-50:12
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:audio_service] /Users/roxy/Downloads/single-radio-/build/audio_service/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:just_audio] /Users/roxy/Downloads/single-radio-/build/just_audio/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_session] /Users/roxy/Downloads/single-radio-/build/audio_session/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-48:12
+MERGED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_custom_tabs_android] /Users/roxy/Downloads/single-radio-/build/flutter_custom_tabs_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/roxy/Downloads/single-radio-/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:flutter_native_splash] /Users/roxy/Downloads/single-radio-/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/roxy/Downloads/single-radio-/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite_android] /Users/roxy/Downloads/single-radio-/build/sqflite_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] /Users/roxy/Downloads/single-radio-/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /Users/roxy/.gradle/caches/transforms-3/ce992da3b2c1f46df7af9aa3ac88ad87/transformed/jetified-firebase-analytics-22.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/roxy/.gradle/caches/transforms-3/b859a275b557eb5b79c3ababb6302106/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/roxy/.gradle/caches/transforms-3/082e99c14b4930bb6948c0b6596e9069/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.media:media:1.7.0] /Users/roxy/.gradle/caches/transforms-3/d1e8778eeb33e7da76d915b55a0dd72d/transformed/media-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.5.0] /Users/roxy/.gradle/caches/transforms-3/9bcd595a69cd80cdaaf37ad3e3b97e38/transformed/browser-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-extractor:1.4.1] /Users/roxy/.gradle/caches/transforms-3/d4bd8a1868978f1105f90eed3bf7dd23/transformed/jetified-media3-extractor-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.4.1] /Users/roxy/.gradle/caches/transforms-3/43474bca11d6f420d4322df4b89f98dc/transformed/jetified-media3-container-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.4.1] /Users/roxy/.gradle/caches/transforms-3/4dd2c006ce1ef82b71834ee911d5fbc4/transformed/jetified-media3-datasource-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.4.1] /Users/roxy/.gradle/caches/transforms-3/9e64e01656c314354c7f3947049f4e66/transformed/jetified-media3-decoder-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.4.1] /Users/roxy/.gradle/caches/transforms-3/cef688601a9263809b0863898c03de8a/transformed/jetified-media3-database-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/roxy/.gradle/caches/transforms-3/48dd4704de9afabbc3f65a331ce08ed0/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-exoplayer-dash:1.4.1] /Users/roxy/.gradle/caches/transforms-3/5b4d7fa85faab2808d3c7e229101f427/transformed/jetified-media3-exoplayer-dash-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer-hls:1.4.1] /Users/roxy/.gradle/caches/transforms-3/1b0471c6cc38f7fbbd167fd5a1eb78c4/transformed/jetified-media3-exoplayer-hls-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.4.1] /Users/roxy/.gradle/caches/transforms-3/538425e913da45e88a552226061da463/transformed/jetified-media3-exoplayer-smoothstreaming-1.4.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/roxy/.gradle/caches/transforms-3/e5c686efd8c63a7472e909fca569e464/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.12.1] /Users/roxy/.gradle/caches/transforms-3/03466951b75f14d499758cd4cd3e3a75/transformed/webkit-1.12.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/roxy/.gradle/caches/transforms-3/94a03c8b0b6c7be987d1fd309ee3fb7e/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /Users/roxy/.gradle/caches/transforms-3/94391c6dd72577772af9bb9729861b61/transformed/jetified-play-services-measurement-sdk-22.1.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/roxy/.gradle/caches/transforms-3/5cff6240a5b3dc1e52c50f500a3cb7c3/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/a8e6c0757966967294e3baf6db6710c7/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/roxy/.gradle/caches/transforms-3/e3378c360a9a076022c05c97fa68978d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/roxy/.gradle/caches/transforms-3/a5bd302c3655c0245502ab978b0f97ca/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/roxy/.gradle/caches/transforms-3/81c6c8018127d137bec390d769ebac22/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /Users/roxy/.gradle/caches/transforms-3/f56239a1990f5db7c55831f0a968e450/transformed/jetified-play-services-measurement-base-22.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/10395d494ebb6390cde4b7c2b7ed2c93/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/roxy/.gradle/caches/transforms-3/3a96259e2cd7031f68b816468757f5f3/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/roxy/.gradle/caches/transforms-3/9a2e5b04024ee4fbff0e23cab3406587/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/roxy/.gradle/caches/transforms-3/cb1d01fabd477adff62a20dbc15f29ac/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/roxy/.gradle/caches/transforms-3/9545d79d3325c085a7c99e2cb9f23932/transformed/jetified-activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6f22e95027ea40abe53fca821b8b3e42/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6b71c7d0b947abb437ff398fdfab1163/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/roxy/.gradle/caches/transforms-3/e6d63c846c92c2df5277e7bd26c54027/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/roxy/.gradle/caches/transforms-3/cb8d05731e86761e914b22f67ce64ebb/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/roxy/.gradle/caches/transforms-3/04729725e19dc383bb87bc46d576bc96/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/roxy/.gradle/caches/transforms-3/aba57384a22a9ce37dab1237e0bb8cbe/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/roxy/.gradle/caches/transforms-3/b712c4efa7a6098f16c7e3497a3f511d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/roxy/.gradle/caches/transforms-3/f9e1d207b470d65705db2541978b9bf4/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/roxy/.gradle/caches/transforms-3/51b34a728a8f780ac47c29a07da11971/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/69c0546a2b4389323f85ea87196d24d4/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/roxy/.gradle/caches/transforms-3/d182d48766d3181fe43ad708b21d1350/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/roxy/.gradle/caches/transforms-3/c369436f247dd68454da102bef1a08fd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/roxy/.gradle/caches/transforms-3/61ce6d5b54903c58e4ab5188fd557ea3/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/roxy/.gradle/caches/transforms-3/8f6cda53068d5a87b7e5acbbac14aa5f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/roxy/.gradle/caches/transforms-3/a7e98ad19d96180d2d7168720aeee1ac/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/roxy/.gradle/caches/transforms-3/16b63bb7cfb9abdecc414d8b23bf2a96/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/roxy/.gradle/caches/transforms-3/3fd0a716029a5f02b7c0cdb7f6f09873/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/roxy/.gradle/caches/transforms-3/e07bbe52e33c7fd5e1c598574bfe0bb9/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/roxy/.gradle/caches/transforms-3/ae59608b0d9fa0cc2e1aeb85b0558792/transformed/jetified-transport-api-3.1.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/roxy/.gradle/caches/transforms-3/1d62329db11904a8c573b6f3d6682523/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/roxy/.gradle/caches/transforms-3/4fea624090f0560a7e8cc36de5c7295b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/roxy/.gradle/caches/transforms-3/0d7aa62a7958f68dcdf300e53471c1fc/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/roxy/.gradle/caches/transforms-3/8b94711cac7069fdd1127ddf5ce52d46/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/roxy/.gradle/caches/transforms-3/b2cbb214699e9ac92e54c31ab4c72864/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/roxy/.gradle/caches/transforms-3/638fb94cc8124d35bddd94d9ee06aa01/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6950c20d803c81d1f6a3d491d85613e0/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/roxy/.gradle/caches/transforms-3/9a5a7e82ffbcf50bb2dcc2a515c8723d/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/roxy/.gradle/caches/transforms-3/a4d62ab509af8be87ed7b54dbce6a401/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:2:1-62
+MERGED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:2:1-62
+MERGED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:2:1-62
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:2:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:3:1-74
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/roxy/.gradle/caches/transforms-3/48dd4704de9afabbc3f65a331ce08ed0/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/roxy/.gradle/caches/transforms-3/48dd4704de9afabbc3f65a331ce08ed0/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/roxy/.gradle/caches/transforms-3/e5c686efd8c63a7472e909fca569e464/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/roxy/.gradle/caches/transforms-3/e5c686efd8c63a7472e909fca569e464/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:3:18-72
+queries
+ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:44:5-49:15
+MERGED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:7:5-11:15
+MERGED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:7:5-11:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:45:9-48:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:46:13-72
+	android:name
+		ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:46:21-70
+data
+ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:47:13-50
+	android:mimeType
+		ADDED from /Users/roxy/Downloads/single-radio-/android/app/src/main/AndroidManifest.xml:47:19-48
+uses-sdk
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+MERGED from [:audio_service] /Users/roxy/Downloads/single-radio-/build/audio_service/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:audio_service] /Users/roxy/Downloads/single-radio-/build/audio_service/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] /Users/roxy/Downloads/single-radio-/build/just_audio/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] /Users/roxy/Downloads/single-radio-/build/just_audio/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /Users/roxy/Downloads/single-radio-/build/audio_session/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /Users/roxy/Downloads/single-radio-/build/audio_session/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_custom_tabs_android] /Users/roxy/Downloads/single-radio-/build/flutter_custom_tabs_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_custom_tabs_android] /Users/roxy/Downloads/single-radio-/build/flutter_custom_tabs_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/roxy/Downloads/single-radio-/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/roxy/Downloads/single-radio-/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_splash] /Users/roxy/Downloads/single-radio-/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_splash] /Users/roxy/Downloads/single-radio-/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/roxy/Downloads/single-radio-/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/roxy/Downloads/single-radio-/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/roxy/Downloads/single-radio-/build/sqflite_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite_android] /Users/roxy/Downloads/single-radio-/build/sqflite_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/roxy/Downloads/single-radio-/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/roxy/Downloads/single-radio-/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /Users/roxy/.gradle/caches/transforms-3/ce992da3b2c1f46df7af9aa3ac88ad87/transformed/jetified-firebase-analytics-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.1.2] /Users/roxy/.gradle/caches/transforms-3/ce992da3b2c1f46df7af9aa3ac88ad87/transformed/jetified-firebase-analytics-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/roxy/.gradle/caches/transforms-3/b859a275b557eb5b79c3ababb6302106/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/roxy/.gradle/caches/transforms-3/b859a275b557eb5b79c3ababb6302106/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/roxy/.gradle/caches/transforms-3/082e99c14b4930bb6948c0b6596e9069/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/roxy/.gradle/caches/transforms-3/082e99c14b4930bb6948c0b6596e9069/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.media:media:1.7.0] /Users/roxy/.gradle/caches/transforms-3/d1e8778eeb33e7da76d915b55a0dd72d/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] /Users/roxy/.gradle/caches/transforms-3/d1e8778eeb33e7da76d915b55a0dd72d/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.5.0] /Users/roxy/.gradle/caches/transforms-3/9bcd595a69cd80cdaaf37ad3e3b97e38/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] /Users/roxy/.gradle/caches/transforms-3/9bcd595a69cd80cdaaf37ad3e3b97e38/transformed/browser-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.4.1] /Users/roxy/.gradle/caches/transforms-3/d4bd8a1868978f1105f90eed3bf7dd23/transformed/jetified-media3-extractor-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.4.1] /Users/roxy/.gradle/caches/transforms-3/d4bd8a1868978f1105f90eed3bf7dd23/transformed/jetified-media3-extractor-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] /Users/roxy/.gradle/caches/transforms-3/43474bca11d6f420d4322df4b89f98dc/transformed/jetified-media3-container-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] /Users/roxy/.gradle/caches/transforms-3/43474bca11d6f420d4322df4b89f98dc/transformed/jetified-media3-container-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] /Users/roxy/.gradle/caches/transforms-3/4dd2c006ce1ef82b71834ee911d5fbc4/transformed/jetified-media3-datasource-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] /Users/roxy/.gradle/caches/transforms-3/4dd2c006ce1ef82b71834ee911d5fbc4/transformed/jetified-media3-datasource-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] /Users/roxy/.gradle/caches/transforms-3/9e64e01656c314354c7f3947049f4e66/transformed/jetified-media3-decoder-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] /Users/roxy/.gradle/caches/transforms-3/9e64e01656c314354c7f3947049f4e66/transformed/jetified-media3-decoder-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] /Users/roxy/.gradle/caches/transforms-3/cef688601a9263809b0863898c03de8a/transformed/jetified-media3-database-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] /Users/roxy/.gradle/caches/transforms-3/cef688601a9263809b0863898c03de8a/transformed/jetified-media3-database-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/roxy/.gradle/caches/transforms-3/48dd4704de9afabbc3f65a331ce08ed0/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] /Users/roxy/.gradle/caches/transforms-3/48dd4704de9afabbc3f65a331ce08ed0/transformed/jetified-media3-common-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-dash:1.4.1] /Users/roxy/.gradle/caches/transforms-3/5b4d7fa85faab2808d3c7e229101f427/transformed/jetified-media3-exoplayer-dash-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-dash:1.4.1] /Users/roxy/.gradle/caches/transforms-3/5b4d7fa85faab2808d3c7e229101f427/transformed/jetified-media3-exoplayer-dash-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.4.1] /Users/roxy/.gradle/caches/transforms-3/1b0471c6cc38f7fbbd167fd5a1eb78c4/transformed/jetified-media3-exoplayer-hls-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-hls:1.4.1] /Users/roxy/.gradle/caches/transforms-3/1b0471c6cc38f7fbbd167fd5a1eb78c4/transformed/jetified-media3-exoplayer-hls-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.4.1] /Users/roxy/.gradle/caches/transforms-3/538425e913da45e88a552226061da463/transformed/jetified-media3-exoplayer-smoothstreaming-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.4.1] /Users/roxy/.gradle/caches/transforms-3/538425e913da45e88a552226061da463/transformed/jetified-media3-exoplayer-smoothstreaming-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/roxy/.gradle/caches/transforms-3/e5c686efd8c63a7472e909fca569e464/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] /Users/roxy/.gradle/caches/transforms-3/e5c686efd8c63a7472e909fca569e464/transformed/jetified-media3-exoplayer-1.4.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.12.1] /Users/roxy/.gradle/caches/transforms-3/03466951b75f14d499758cd4cd3e3a75/transformed/webkit-1.12.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.12.1] /Users/roxy/.gradle/caches/transforms-3/03466951b75f14d499758cd4cd3e3a75/transformed/webkit-1.12.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/roxy/.gradle/caches/transforms-3/94a03c8b0b6c7be987d1fd309ee3fb7e/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/roxy/.gradle/caches/transforms-3/94a03c8b0b6c7be987d1fd309ee3fb7e/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /Users/roxy/.gradle/caches/transforms-3/94391c6dd72577772af9bb9729861b61/transformed/jetified-play-services-measurement-sdk-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.1.2] /Users/roxy/.gradle/caches/transforms-3/94391c6dd72577772af9bb9729861b61/transformed/jetified-play-services-measurement-sdk-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/roxy/.gradle/caches/transforms-3/5cff6240a5b3dc1e52c50f500a3cb7c3/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/roxy/.gradle/caches/transforms-3/5cff6240a5b3dc1e52c50f500a3cb7c3/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/a8e6c0757966967294e3baf6db6710c7/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/a8e6c0757966967294e3baf6db6710c7/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/roxy/.gradle/caches/transforms-3/e3378c360a9a076022c05c97fa68978d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/roxy/.gradle/caches/transforms-3/e3378c360a9a076022c05c97fa68978d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/roxy/.gradle/caches/transforms-3/a5bd302c3655c0245502ab978b0f97ca/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/roxy/.gradle/caches/transforms-3/a5bd302c3655c0245502ab978b0f97ca/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/roxy/.gradle/caches/transforms-3/81c6c8018127d137bec390d769ebac22/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/roxy/.gradle/caches/transforms-3/81c6c8018127d137bec390d769ebac22/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /Users/roxy/.gradle/caches/transforms-3/f56239a1990f5db7c55831f0a968e450/transformed/jetified-play-services-measurement-base-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.1.2] /Users/roxy/.gradle/caches/transforms-3/f56239a1990f5db7c55831f0a968e450/transformed/jetified-play-services-measurement-base-22.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/10395d494ebb6390cde4b7c2b7ed2c93/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/roxy/.gradle/caches/transforms-3/10395d494ebb6390cde4b7c2b7ed2c93/transformed/jetified-firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/roxy/.gradle/caches/transforms-3/3a96259e2cd7031f68b816468757f5f3/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/roxy/.gradle/caches/transforms-3/3a96259e2cd7031f68b816468757f5f3/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/roxy/.gradle/caches/transforms-3/9a2e5b04024ee4fbff0e23cab3406587/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/roxy/.gradle/caches/transforms-3/9a2e5b04024ee4fbff0e23cab3406587/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/roxy/.gradle/caches/transforms-3/cb1d01fabd477adff62a20dbc15f29ac/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/roxy/.gradle/caches/transforms-3/cb1d01fabd477adff62a20dbc15f29ac/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/roxy/.gradle/caches/transforms-3/9545d79d3325c085a7c99e2cb9f23932/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/roxy/.gradle/caches/transforms-3/9545d79d3325c085a7c99e2cb9f23932/transformed/jetified-activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6f22e95027ea40abe53fca821b8b3e42/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6f22e95027ea40abe53fca821b8b3e42/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6b71c7d0b947abb437ff398fdfab1163/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6b71c7d0b947abb437ff398fdfab1163/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/roxy/.gradle/caches/transforms-3/e6d63c846c92c2df5277e7bd26c54027/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/roxy/.gradle/caches/transforms-3/e6d63c846c92c2df5277e7bd26c54027/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/roxy/.gradle/caches/transforms-3/cb8d05731e86761e914b22f67ce64ebb/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/roxy/.gradle/caches/transforms-3/cb8d05731e86761e914b22f67ce64ebb/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/roxy/.gradle/caches/transforms-3/04729725e19dc383bb87bc46d576bc96/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/roxy/.gradle/caches/transforms-3/04729725e19dc383bb87bc46d576bc96/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/roxy/.gradle/caches/transforms-3/aba57384a22a9ce37dab1237e0bb8cbe/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/roxy/.gradle/caches/transforms-3/aba57384a22a9ce37dab1237e0bb8cbe/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/roxy/.gradle/caches/transforms-3/b712c4efa7a6098f16c7e3497a3f511d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/roxy/.gradle/caches/transforms-3/b712c4efa7a6098f16c7e3497a3f511d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/roxy/.gradle/caches/transforms-3/f9e1d207b470d65705db2541978b9bf4/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/roxy/.gradle/caches/transforms-3/f9e1d207b470d65705db2541978b9bf4/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/roxy/.gradle/caches/transforms-3/51b34a728a8f780ac47c29a07da11971/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/roxy/.gradle/caches/transforms-3/51b34a728a8f780ac47c29a07da11971/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/69c0546a2b4389323f85ea87196d24d4/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/69c0546a2b4389323f85ea87196d24d4/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/roxy/.gradle/caches/transforms-3/d182d48766d3181fe43ad708b21d1350/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/roxy/.gradle/caches/transforms-3/d182d48766d3181fe43ad708b21d1350/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/roxy/.gradle/caches/transforms-3/c369436f247dd68454da102bef1a08fd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/roxy/.gradle/caches/transforms-3/c369436f247dd68454da102bef1a08fd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/roxy/.gradle/caches/transforms-3/61ce6d5b54903c58e4ab5188fd557ea3/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/roxy/.gradle/caches/transforms-3/61ce6d5b54903c58e4ab5188fd557ea3/transformed/jetified-core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/roxy/.gradle/caches/transforms-3/8f6cda53068d5a87b7e5acbbac14aa5f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/roxy/.gradle/caches/transforms-3/8f6cda53068d5a87b7e5acbbac14aa5f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/roxy/.gradle/caches/transforms-3/a7e98ad19d96180d2d7168720aeee1ac/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/roxy/.gradle/caches/transforms-3/a7e98ad19d96180d2d7168720aeee1ac/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/roxy/.gradle/caches/transforms-3/16b63bb7cfb9abdecc414d8b23bf2a96/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/roxy/.gradle/caches/transforms-3/16b63bb7cfb9abdecc414d8b23bf2a96/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/roxy/.gradle/caches/transforms-3/3fd0a716029a5f02b7c0cdb7f6f09873/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/roxy/.gradle/caches/transforms-3/3fd0a716029a5f02b7c0cdb7f6f09873/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/roxy/.gradle/caches/transforms-3/e07bbe52e33c7fd5e1c598574bfe0bb9/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/roxy/.gradle/caches/transforms-3/e07bbe52e33c7fd5e1c598574bfe0bb9/transformed/jetified-firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/roxy/.gradle/caches/transforms-3/ae59608b0d9fa0cc2e1aeb85b0558792/transformed/jetified-transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] /Users/roxy/.gradle/caches/transforms-3/ae59608b0d9fa0cc2e1aeb85b0558792/transformed/jetified-transport-api-3.1.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/roxy/.gradle/caches/transforms-3/1d62329db11904a8c573b6f3d6682523/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/roxy/.gradle/caches/transforms-3/1d62329db11904a8c573b6f3d6682523/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/roxy/.gradle/caches/transforms-3/4fea624090f0560a7e8cc36de5c7295b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/roxy/.gradle/caches/transforms-3/4fea624090f0560a7e8cc36de5c7295b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/roxy/.gradle/caches/transforms-3/0d7aa62a7958f68dcdf300e53471c1fc/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/roxy/.gradle/caches/transforms-3/0d7aa62a7958f68dcdf300e53471c1fc/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/roxy/.gradle/caches/transforms-3/8b94711cac7069fdd1127ddf5ce52d46/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/roxy/.gradle/caches/transforms-3/8b94711cac7069fdd1127ddf5ce52d46/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/roxy/.gradle/caches/transforms-3/b2cbb214699e9ac92e54c31ab4c72864/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/roxy/.gradle/caches/transforms-3/b2cbb214699e9ac92e54c31ab4c72864/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/roxy/.gradle/caches/transforms-3/638fb94cc8124d35bddd94d9ee06aa01/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/roxy/.gradle/caches/transforms-3/638fb94cc8124d35bddd94d9ee06aa01/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6950c20d803c81d1f6a3d491d85613e0/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/roxy/.gradle/caches/transforms-3/6950c20d803c81d1f6a3d491d85613e0/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/roxy/.gradle/caches/transforms-3/9a5a7e82ffbcf50bb2dcc2a515c8723d/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/roxy/.gradle/caches/transforms-3/9a5a7e82ffbcf50bb2dcc2a515c8723d/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/roxy/.gradle/caches/transforms-3/a4d62ab509af8be87ed7b54dbce6a401/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/roxy/.gradle/caches/transforms-3/a4d62ab509af8be87ed7b54dbce6a401/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/roxy/Downloads/single-radio-/android/app/src/debug/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-39:19
+MERGED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:35:9-39:19
+MERGED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:11:9-15:19
+MERGED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:11:9-15:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:28:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_database] /Users/roxy/Downloads/single-radio-/build/firebase_database/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-127
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-68
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-77
+MERGED from [:flutter_local_notifications] /Users/roxy/Downloads/single-radio-/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-77
+MERGED from [:flutter_local_notifications] /Users/roxy/Downloads/single-radio-/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-74
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-17:72
+	android:exported
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-24:19
+	android:exported
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-23:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:22:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:26:9-33:20
+	android:exported
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-32:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:17-81
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:31:25-78
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:37:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:41:9-45:38
+	android:authorities
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:43:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-35
+	android:name
+		ADDED from [:firebase_messaging] /Users/roxy/Downloads/single-radio-/build/firebase_messaging/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firebaseremoteconfig.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_remote_config] /Users/roxy/Downloads/single-radio-/build/firebase_remote_config/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-139
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/roxy/Downloads/single-radio-/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] /Users/roxy/Downloads/single-radio-/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] /Users/roxy/Downloads/single-radio-/build/flutter_local_notifications/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-63
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [com.github.droibit:customtabslauncher:2.0.0] /Users/roxy/.gradle/caches/transforms-3/ff5ec4339334dc7e578433c0e9fcd116/transformed/jetified-customtabslauncher-2.0.0/AndroidManifest.xml:9:21-87
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/roxy/.gradle/caches/transforms-3/d8b64c2e5462c994dffa0a44deabbcef/transformed/jetified-firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] /Users/roxy/.gradle/caches/transforms-3/d7a4e2c07b32bf11f05b11d485a32bd3/transformed/jetified-play-services-cloud-messaging-17.2.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:30:13-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:47:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.1.0] /Users/roxy/.gradle/caches/transforms-3/fe42c270c88b9a86c410f9415882d061/transformed/jetified-firebase-messaging-24.1.0/AndroidManifest.xml:61:17-119
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar
+ADDED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:30:17-128
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:22.0.1] /Users/roxy/.gradle/caches/transforms-3/f73b557a18577db835191c782d680409/transformed/jetified-firebase-config-22.0.1/AndroidManifest.xml:33:17-117
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/roxy/.gradle/caches/transforms-3/81c6c8018127d137bec390d769ebac22/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/roxy/.gradle/caches/transforms-3/81c6c8018127d137bec390d769ebac22/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/79d22aee2e22cafd1e2c011bdfa0df12/transformed/jetified-play-services-measurement-sdk-api-22.1.2/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.1.2] /Users/roxy/.gradle/caches/transforms-3/6a7fc86d1e578b2d4112cac352dcba5a/transformed/jetified-play-services-measurement-api-22.1.2/AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/roxy/.gradle/caches/transforms-3/d4cf62a8021c804f7add266c6a3da43f/transformed/jetified-firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/roxy/.gradle/caches/transforms-3/9b832c58e7981e8a7f28aca7514833f8/transformed/jetified-firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] /Users/roxy/.gradle/caches/transforms-3/9fd6ca4a1357c364ce8fb22c7414541d/transformed/jetified-firebase-datatransport-18.2.0/AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/roxy/.gradle/caches/transforms-3/e87152432b7df1af2b1e6e66ea2d75d6/transformed/jetified-transport-backend-cct-3.1.9/AndroidManifest.xml:32:17-94
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/roxy/.gradle/caches/transforms-3/0ccb055a74c1d4486f02689ba72d48cf/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/roxy/.gradle/caches/transforms-3/1a4186f82c0286878d7f42c974e93a27/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.1.2] /Users/roxy/.gradle/caches/transforms-3/5ec8d140b28a22c4fe7a250c67fb0f04/transformed/jetified-play-services-measurement-impl-22.1.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.1.2] /Users/roxy/.gradle/caches/transforms-3/99373bda030ad7c1909f08caec142701/transformed/jetified-play-services-measurement-22.1.2/AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:21.1.1] /Users/roxy/.gradle/caches/transforms-3/41b82755f6163e731621d7dcd301de3e/transformed/jetified-firebase-abt-21.1.1/AndroidManifest.xml:13:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/roxy/.gradle/caches/transforms-3/70bcde67746e3caf023a5d94806e0752/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/roxy/.gradle/caches/transforms-3/16b63bb7cfb9abdecc414d8b23bf2a96/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/roxy/.gradle/caches/transforms-3/16b63bb7cfb9abdecc414d8b23bf2a96/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/roxy/.gradle/caches/transforms-3/fb093c08675d2ca83858a82f89f0f1a2/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/roxy/.gradle/caches/transforms-3/2acd460f53bbc68063d9980fefe67a70/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/roxy/.gradle/caches/transforms-3/79342e322d492454391baebdae52210e/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.rf9.singlestation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.rf9.singlestation.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/roxy/.gradle/caches/transforms-3/a0c13cf2c8ad4606e1c7c6909a758510/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/roxy/.gradle/caches/transforms-3/72bcdca4a8fff4b6e7e5d60f79512ce2/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] /Users/roxy/.gradle/caches/transforms-3/8bbacbf4b7801486db01459c2849eae6/transformed/jetified-transport-runtime-3.1.9/AndroidManifest.xml:33:13-132

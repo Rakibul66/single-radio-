@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://cocho-fm-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">787581459318</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1t6vBoAOt7GH9jMGlETnk2dOLZQRNhp4</string>
+    <string name="google_app_id" translatable="false">1:787581459318:android:3a6457ca515d359b0ff857</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1t6vBoAOt7GH9jMGlETnk2dOLZQRNhp4</string>
+    <string name="google_storage_bucket" translatable="false">cocho-fm.firebasestorage.app</string>
+    <string name="project_id" translatable="false">cocho-fm</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
